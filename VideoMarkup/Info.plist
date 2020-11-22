@@ -62,5 +62,21 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSFileProviderPresenceUsageDescription</key>
+	<string></string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>This app requires your permission before being albe to access permissions from your photo library.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>This app requires your permission before being albe to access permissions from your photo library.</string>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>This app requires your permission before being albe to access permissions from your photo library.</string>
+	<key>NSFileProviderDomainUsageDescription</key>
+	<string>This app requires your permission before being albe to access permissions from your files.</string>
+	<key>NSDownloadsFolderUsageDescription</key>
+	<string>This app requires your permission before being albe to access permissions from your files.</string>
+	<key>NSDocumentsFolderUsageDescription</key>
+	<string>This app requires your permission before being albe to access permissions from your files.</string>
+	<key>NSDesktopFolderUsageDescription</key>
+	<string>This app requires your permission before being albe to access permissions from your files.</string>
 </dict>
 </plist>
